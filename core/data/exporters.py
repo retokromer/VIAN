@@ -287,7 +287,7 @@ class SequenceProtocolExporter:
     @staticmethod
     def _write_screenshot(screenshot, path):
         """
-        writes screenshots to disk
+        writes screenshots to disk.
 
         Args:
             path: directory path (pathlib.PosixPath)
